@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miNotificationDrawer"
+        android:icon="@drawable/icon_notification"
+        android:title="@string/notification" />
+
+    <item
+        android:id="@+id/miFavoriteDrawer"
+        android:icon="@drawable/icon_favorite"
+        android:title="@string/favorite" />
+
+    <item
+        android:id="@+id/miSettingsDrawer"
+        android:icon="@drawable/icon_settings"
+        android:title="@string/settings" />
+
+    <group
+        android:id="@+id/drawerGroup"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/miLocationDrawer"
+            android:icon="@drawable/icon_location"
+            android:title="@string/location" />
+
+        <item
+            android:id="@+id/miAlertDrawer"
+            android:icon="@drawable/icon_alert"
+            android:title="@string/alert" />
+
+    </group>
+
+</menu>

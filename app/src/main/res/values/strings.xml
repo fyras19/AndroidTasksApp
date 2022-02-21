@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="android">Android</string>
+    <string name="welcome_back">WELCOME BACK</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="hello_there">HELLO THERE,</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="new_user_sign_up">NEW USER? SIGN UP</string>
+    <string name="android_logo">Android Logo</string>
+    <string name="welcome_to_android_app">WELCOME TO ANDROID APP</string>
+    <string name="welcome">WELCOME</string>
+    <string name="sign_up_to_create_account">Sign up to create Account</string>
+    <string name="user_name">User Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="what_is_your_gender">What is your gender?</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="do_you_like_android">Do you like Android?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="android_app">Android App</string>
+    <string name="ahmed_mohamed_gmail_com">ahmed.mohamed@gmail.com</string>
+    <string name="notification">Notification</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="location">Location</string>
+    <string name="alert">Alert</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hi_ahmed">Hi, Ahmed</string>
+    <string name="you_like_android">You like Android</string>
+    <string name="you_are_male">You are male</string>
+    <string name="task">Task</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="share">Share</string>
+
+    <string-array name="like_android">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Neutral</item>
+    </string-array>
+</resources>
